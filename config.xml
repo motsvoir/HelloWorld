@@ -10,5 +10,4 @@
 <preference name="Fullscreen" value="true" />
 <preference name="BackgroundColor" value="0xfffef9ea"/>
 <preference name="Orientation" value="default" />
-<gap:plugin name="com.phonegap.plugin.statusbar" version="1.1.0" />
 </widget>
